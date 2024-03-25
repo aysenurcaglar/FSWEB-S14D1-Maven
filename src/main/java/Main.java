@@ -6,7 +6,6 @@ import com.workintech.pool.Rectangle;
 public class Main {
     public static void main(String[] args) {
 
-        System.out.println("Hello world!");
         Circle circle = new Circle(3.75);
 
         System.out.println("circle.radius= " + circle.getRadius());
